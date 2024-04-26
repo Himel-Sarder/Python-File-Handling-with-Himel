@@ -1,0 +1,6 @@
+Roll Name    Class Fee
+1001 Himel    11   500
+1002 Abonti   9	   400
+1003 Kabita   12   300
+1004 Bibhuti  12   350
+1005 Aisharja 7    180
